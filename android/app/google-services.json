@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "746230506380",
+    "project_id": "dtwms_app",
+    "storage_bucket": "dtwms_app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746230506380:android:4c39ac1715e775e99aaca9",
+        "android_client_info": {
+          "package_name": "com.dootait.dtwms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746230506380-fug4081ltani1t80tujuh0n6qlu6uvlo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYTcUq2vU1wfvxu7L-Rc_eNTllTusWLI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746230506380-fug4081ltani1t80tujuh0n6qlu6uvlo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
